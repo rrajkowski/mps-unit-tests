@@ -14,5 +14,5 @@ _______________________________________________
 7. All Sonar Coverage Xml reports are: /reports/*.xml
 8. Run tests from cli: <code> mocha-phantomjs -R spec TestRunner.html</code>
 9. Export tests to reports folder: <code> mocha-phantomjs -R xunit TestRunner.html > reports/mocha-test.xml</code>
-10.Export MPS example TEST to XML: <code>mocha-phantomjs -R xunit appendTestRunner.html > reports/append-test.xml</code>
+10. Export MPS example TEST to XML: <code>mocha-phantomjs -R xunit appendTestRunner.html > reports/append-test.xml</code>
 
